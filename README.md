@@ -1,2 +1,2 @@
-# ReactDivideComponents
+# ReactComponentsPractice
 Created with CodeSandbox
